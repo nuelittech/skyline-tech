@@ -1,0 +1,74 @@
+table, th, td{
+    border: 2px solide;
+    border-collapse: collapse ;
+    border-color: rgb(211, 104, 11);
+    
+  
+  
+  }
+  
+  table, td, th{
+      border: 2px solid;
+  }
+  .container{
+  
+      width:  60%;
+      margin: auto;
+      padding: 40px;
+  
+  
+  }
+  
+  
+  table{
+  
+      width: 100%;
+  
+  }
+  
+  th{
+  padding:  20px;
+  background-color: dodgerblue;
+  color: white;
+  
+  }
+  
+  td{
+  
+      padding:  10px;
+      background-color: azure;
+  }
+   caption{
+       background:  yellow;
+       width:  40%;
+       padding: 10px;
+       margin: auto;
+       margin-bottom: 10px ;
+       border-radius: 10px;
+       front-weight:border;
+  
+  
+   }
+   icon{
+       color: red;
+   }
+  
+   .i{
+      color: green;
+  
+   }
+   
+  .mark{
+      background-color: dodgerblue;
+      padding: 3px;
+  
+  }
+  
+  tr:nth-child(even){
+      background-color: lightgray;
+  }
+  
+  tr:hover{
+      background-color: darkgray;
+      
+  }
