@@ -1,7 +1,14 @@
+<<<<<<< HEAD
+.con.container{
+        width: 60% ;
+            margin:70px auto;
+            }
+=======
 .container{
     width: 60% ;
     margin:70px auto;
 }
+>>>>>>> 81735588e814baee863d92fe620b744cd39ac8ca
 
 table, th, td{
     border: 2px solid rgb(153, 123, 123);
@@ -15,6 +22,65 @@ th{
     color: white;
     font-size: 20px;
 
+<<<<<<< HEAD
+
+            table, th, td{
+                border: 2px solid rgb(153, 123, 123);
+                    border-collapse: collapse;
+                        padding: 10px;
+                            text-align: center;
+                             
+                             }
+                             th{
+                                 background-color: dodgerblue;
+                                     color: white;
+                                         font-size: 20px;
+
+                                         }
+                                         td{
+                                             font-size: 15px;
+                                             }
+                                             tr:nth-child(even){
+                                                 background-color: lightgrey;
+
+                                                 }
+                                                 tr:hover{
+                                                     background-color: darkgray;
+                                                     }
+
+                                                     tainer{
+                                                         width: 60% ;
+                                                             margin:70px auto;
+                                                             }
+
+
+
+                                                             table, th, td{
+                                                                 border: 2px solid rgb(153, 123, 123);
+                                                                     border-collapse: collapse;
+                                                                         padding: 10px;
+                                                                             text-align: center;
+                                                                              
+                                                                              }
+                                                                              th{
+                                                                                  background-color: dodgerblue;
+                                                                                      color: white;
+                                                                                          font-size: 20px;
+
+                                                                                          }
+                                                                                          td{
+                                                                                              font-size: 15px;
+                                                                                              }
+                                                                                              tr:nth-child(even){
+                                                                                                  background-color: lightgrey;
+
+                                                                                                  }
+                                                                                                  tr:hover{
+                                                                                                      background-color: darkgray;
+                                                                                                      }q
+}
+
+=======
 }
 td{
     font-size: 15px;
@@ -28,3 +94,5 @@ tr:hover{
 }
 
 
+
+>>>>>>> 81735588e814baee863d92fe620b744cd39ac8ca
